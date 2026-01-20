@@ -15,19 +15,27 @@
     },
     "010": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 2",
-      "last_updated": "1768906614",
+      "last_updated": "1768907592",
       "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/ej7mv23gj7d"
+        "Doglist": "/proxy/api/imgchest/chapter/ljyq5dvqky2"
       },
-      "volume": "3"
+      "volume": "03"
     },
     "009": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 1",
-      "last_updated": "1768906639",
+      "last_updated": "1768907620",
       "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/qb4zmkwavyj"
+        "Doglist": "/proxy/api/imgchest/chapter/ljyq5dvqey2"
       },
-      "volume": "3"
+      "volume": "03"
+    },
+    "012": {
+      "title": "Charming Man",
+      "last_updated": "1768907538",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/wl7l5m9ko4x"
+      },
+      "volume": "03"
     }
   }
 }
