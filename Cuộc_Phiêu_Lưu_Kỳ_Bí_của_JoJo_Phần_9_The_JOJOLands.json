@@ -12,6 +12,22 @@
         "Doglist": "/proxy/api/imgchest/chapter/na7k5wdbw78"
       },
       "volume": "3"
+    },
+    "010": {
+      "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 2",
+      "last_updated": "1768906614",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/ej7mv23gj7d"
+      },
+      "volume": "3"
+    },
+    "009": {
+      "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 1",
+      "last_updated": "1768906639",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/qb4zmkwavyj"
+      },
+      "volume": "3"
     }
   }
 }
