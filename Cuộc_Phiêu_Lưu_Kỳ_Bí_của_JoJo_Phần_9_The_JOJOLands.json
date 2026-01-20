@@ -1,15 +1,15 @@
 {
-  "title": "Cuộc Phiêu Lưu Kỳ Bí của JoJo Phần 9 The JOJOLands",
-  "description": "",
-  "artist": "",
-  "author": "",
-  "cover": "",
+  "title": "Cuộc Phiêu Lưu Kỳ Bí của JoJo Phần 9: The JOJOLands",
+  "description": "Bối cảnh là quần quần đảo nhiệt đới giữa Thái Bình Dương - Hawaii. Một thiếu niên sống tại O'ahu tên Jodio Joestar mang hoài bão làm giàu. Cậu cho rằng để đạt được giấc mơ này, nhất thiết phải làm chủ được những 'cơ chế' mà cậu gặp trong cuộc sống hàng ngày. Trên quần đảo này, nơi ánh sáng và bóng tối giao thoa, bức màn sân khấu đã hé mở, khởi đầu cho một hành trình khó đoán định phía trước!",
+  "artist": "Araki Hirohiko",
+  "author": "Araki Hirohiko",
+  "cover": "https://mangadex.org/covers/ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c/baff0a48-a846-4853-bdd4-c9860daa4c2a.jpg",
   "chapters": {
     "9": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 1",
-      "last_updated": "1768904954",
+      "last_updated": "1768905568",
       "groups": {
-        "": "/proxy/api/imgchest/chapter/ne7bnx2jm75"
+        "Doglist": "/proxy/api/imgchest/chapter/na7k5wdbw78"
       },
       "volume": "3"
     }
