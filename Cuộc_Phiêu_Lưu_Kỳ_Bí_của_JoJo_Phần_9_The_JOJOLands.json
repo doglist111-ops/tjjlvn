@@ -5,14 +5,6 @@
   "author": "Araki Hirohiko",
   "cover": "https://mangadex.org/covers/ab8cbb82-d0ed-45a7-8ffe-4bfa6d43d79c/baff0a48-a846-4853-bdd4-c9860daa4c2a.jpg",
   "chapters": {
-    "9": {
-      "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 1",
-      "last_updated": "1768905568",
-      "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/na7k5wdbw78"
-      },
-      "volume": "3"
-    },
     "010": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 2",
       "last_updated": "1768907592",
@@ -36,6 +28,15 @@
         "Doglist": "/proxy/api/imgchest/chapter/ljyq5dmboy2"
       },
       "volume": "03"
+    },
+        },
+    "013": {
+      "title": "Anh Em Nhà Joestar",
+      "last_updated": "1768907627",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/o24ankdmg7l"
+      },
+      "volume": "04"
     },
     "014": {
       "title": "Mục Tiêu - Khối Tài Sản 50 Tỷ Đô La, Phần 1",
