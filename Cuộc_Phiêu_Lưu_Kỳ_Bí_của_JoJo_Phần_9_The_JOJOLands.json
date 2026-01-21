@@ -69,62 +69,6 @@
         "Doglist": "/proxy/api/imgchest/chapter/agyvjegkjy8"
       },
       "volume": "04"
-    },
-    "017": {
-      "title": "Lulu & Bags Groove, Phần 2",
-      "last_updated": "1768957960",
-      "groups": {},
-      "volume": "05"
-    },
-    "018": {
-      "title": "Lulu-chan và Bobby Jean, Phần 1",
-      "last_updated": "1768957960",
-      "groups": {},
-      "volume": "05"
-    },
-    "019": {
-      "title": "Lulu-chan và Bobby Jean, Phần 2",
-      "last_updated": "1768957960",
-      "groups": {},
-      "volume": "05"
-    },
-    "020": {
-      "title": "Lulu-chan và Bobby Jean, Phần 3",
-      "last_updated": "1768957960",
-      "groups": {},
-      "volume": "05"
-    },
-    "021": {
-      "title": "Trưởng Phòng Kinh Doanh Ngân Hàng Dolphin, Yokohama",
-      "last_updated": "1768958749",
-      "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/pg736j3l37r"
-      },
-      "volume": "06"
-    },
-    "022": {
-      "title": "Cùng Lên Chiếc Siêu Du Thuyền",
-      "last_updated": "1768958133",
-      "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/ne7bnxodg75"
-      },
-      "volume": "06"
-    },
-    "023": {
-      "title": "200 Balloons và Lyin' Eyes, Phần 1",
-      "last_updated": "1768958914",
-      "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/na7k5wqam78"
-      },
-      "volume": "06"
-    },
-    "024": {
-      "title": "200 Balloons và Lyin' Eyes, Phần 2",
-      "last_updated": "1768958885",
-      "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/m9yxdgl9k4q"
-      },
-      "volume": "06"
     }
   }
 }
