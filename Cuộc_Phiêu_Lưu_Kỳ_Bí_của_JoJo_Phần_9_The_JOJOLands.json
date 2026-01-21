@@ -70,28 +70,29 @@
       },
       "volume": "04"
     },
-    "017": {
-      "title": "Lulu & Bags Groove, Phần 2",
-      "last_updated": "1768957960",
-      "groups": {},
-      "volume": "05"
-    },
+
     "018": {
       "title": "Lulu-chan và Bobby Jean, Phần 1",
       "last_updated": "1768957960",
-      "groups": {},
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/6eyr5dzgx7p"
+     },
       "volume": "05"
     },
     "019": {
       "title": "Lulu-chan và Bobby Jean, Phần 2",
       "last_updated": "1768957960",
-      "groups": {},
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/wl7l5mdxx4x"
+      },
       "volume": "05"
     },
     "020": {
       "title": "Lulu-chan và Bobby Jean, Phần 3",
       "last_updated": "1768957960",
-      "groups": {},
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/5xy2nlmpzyl"
+      },
       "volume": "05"
     },
     "021": {
