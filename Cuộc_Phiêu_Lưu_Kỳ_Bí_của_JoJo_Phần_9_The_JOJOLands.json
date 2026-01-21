@@ -1,3 +1,4 @@
+
 {
   "title": "Cuộc Phiêu Lưu Kỳ Bí của JoJo Phần 9: The JOJOLands",
   "description": "Bối cảnh là quần quần đảo nhiệt đới giữa Thái Bình Dương - Hawaii. Một thiếu niên sống tại O'ahu tên Jodio Joestar mang hoài bão làm giàu. Cậu cho rằng để đạt được giấc mơ này, nhất thiết phải làm chủ được những 'cơ chế' mà cậu gặp trong cuộc sống hàng ngày. Trên quần đảo này, nơi ánh sáng và bóng tối giao thoa, bức màn sân khấu đã hé mở, khởi đầu cho một hành trình khó đoán định phía trước!",
@@ -7,31 +8,39 @@
   "chapters": {
     "010": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 2",
-      "last_updated": "1768907592",
+      "last_updated": "1768950324",
       "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/ljyq5dvqky2"
+        "Doglist": "/proxy/api/imgchest/chapter/9rydnp36n4k"
       },
       "volume": "03"
     },
     "009": {
       "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 1",
-      "last_updated": "1768907620",
+      "last_updated": "1768950218",
       "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/ljyq5dvqey2"
+        "Doglist": "/proxy/api/imgchest/chapter/o24ankdqw7l"
       },
       "volume": "03"
     },
     "012": {
       "title": "Charming Man",
-      "last_updated": "1768953135",
+      "last_updated": "1768907538",
       "groups": {
-        "Doglist": "/proxy/api/imgchest/chapter/ljyq5dmboy2"
+        "Doglist": "/proxy/api/imgchest/chapter/wl7l5m9ko4x"
+      },
+      "volume": "03"
+    },
+    "011": {
+      "title": "Kailua-Kona - Đợi Chuyến Bay, Phần 3",
+      "last_updated": "1768950799",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/5xy2nlxq8yl"
       },
       "volume": "03"
     },
     "013": {
       "title": "Anh Em Nhà Joestar",
-      "last_updated": "1768907627",
+      "last_updated": "1768951584",
       "groups": {
         "Doglist": "/proxy/api/imgchest/chapter/o24ankdmg7l"
       },
