@@ -1,4 +1,3 @@
-
 {
   "title": "Cuộc Phiêu Lưu Kỳ Bí của JoJo Phần 9: The JOJOLands",
   "description": "Bối cảnh là quần quần đảo nhiệt đới giữa Thái Bình Dương - Hawaii. Một thiếu niên sống tại O'ahu tên Jodio Joestar mang hoài bão làm giàu. Cậu cho rằng để đạt được giấc mơ này, nhất thiết phải làm chủ được những 'cơ chế' mà cậu gặp trong cuộc sống hàng ngày. Trên quần đảo này, nơi ánh sáng và bóng tối giao thoa, bức màn sân khấu đã hé mở, khởi đầu cho một hành trình khó đoán định phía trước!\nScanlation @Hi Wa Mata Noboru at https://hiwamatanoboru.com/category/the-jojolands/",
@@ -200,6 +199,12 @@
       "groups": {
         "Doglist": "/proxy/api/imgchest/chapter/dl7p5x8j3yo"
       }
-    }
+    },
+    "034": {
+      "title": "Usagi, Lừa Đảo, và Hoài Nghi, Phần 2",
+      "last_updated": "1774748869",
+      "groups": {
+        "Doglist": "/proxy/api/imgchest/chapter/5xy2xz9394l"
+      }
   }
 }
